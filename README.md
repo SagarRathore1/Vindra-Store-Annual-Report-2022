@@ -13,6 +13,8 @@ The Vindra Store wants to create an annual sales report for 2022 , So that , the
 - Highest selling category ? 
 
 -Dashboard Interaction: <a href="https://github.com/SagarRathore1/Vindra-Store-Annual-Report-2022/blob/main/dashboard%20image.png">View Dashboard</a>
+![image](https://github.com/user-attachments/assets/bd16fd35-1278-43ba-b683-e1717ceed95e)
+
 
 ## Process
 - Verify data for any missing values and anomalies and sort out the same.
